@@ -344,7 +344,6 @@ Comfortable viewing experience with professional dark theme.
 
 For questions, feedback, or support regarding the Elite Motors platform:
 
-- **Email**: support@elitemotors.com
 - **Website**: https://car-show-room-app.vercel.app/
 - **Issues**: Report bugs and request features
 
@@ -399,6 +398,20 @@ Planned features for future versions:
 
 <div align="center">
 
+## 🖼️ Gallery
+
+<div align="center">
+<img src="c1.png" alt="c1" width="220" style="margin:8px;" />
+<img src="c2.png" alt="c2" width="220" style="margin:8px;" />
+<img src="c3.png" alt="c3" width="220" style="margin:8px;" />
+<img src="c4.png" alt="c4" width="220" style="margin:8px;" />
+<br/>
+<img src="c5.png" alt="c5" width="220" style="margin:8px;" />
+<img src="c6.png" alt="c6" width="220" style="margin:8px;" />
+<img src="c7.png" alt="c7" width="220" style="margin:8px;" />
+<img src="c8.png" alt="c8" width="220" style="margin:8px;" />
+</div>
+
 ### 🌟 Star this project if you find it useful! 🌟
 
 **Made with ❤️ by Elite Motors Development Team**
@@ -408,6 +421,3 @@ Planned features for future versions:
 </div>
 
 ---
-
-*Last Updated: January 2026*
-*Version: 1.0.0*
